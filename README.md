@@ -4,6 +4,11 @@
 
 I work across cloud security, application security, AI security, and GRC — from architecture and hardening to vulnerability management and threat intelligence.
 
+## Projects
+
+- **[InfoCuesta AI Security Check](https://ia.infocuesta.com.br)** — free tool to assess AI/LLM adoption risk.
+- **[InfocuestaSec GRC](https://grc.infocuesta.com.br)** — GRC platform covering 7 frameworks and 300+ controls, free and public.
+
 ## Featured
 
 - **[srx210-linux](https://github.com/rafabarcelos/srx210-linux)** — Linux 5.4 standalone on a Juniper SRX210 (Cavium Octeon CN5020, MIPS64), booting from a USB drive without touching JunOS.
