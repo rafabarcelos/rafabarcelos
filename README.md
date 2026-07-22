@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Rafael Cuesta Barcelos — Information Security Specialist" width="100%">
 </div>
 
-I work across cloud security, application security, AI security, and GRC — from architecture and hardening to vulnerability management and threat intelligence. I run [InfocuestaSec](https://www.infocuesta.com.br).
+I work across cloud security, application security, AI security, and GRC — from architecture and hardening to vulnerability management and threat intelligence.
 
 ## Featured
 
